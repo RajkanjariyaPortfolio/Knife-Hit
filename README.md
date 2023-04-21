@@ -1,2 +1,2 @@
 # Knife-Hit
-This is an casual game.
+Casaul Game
